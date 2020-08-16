@@ -53,18 +53,6 @@ comfortable.
 4. Run it: `./path_planning`.
 5. Open the simulator, which is downloaded from [here](https://github.com/udacity/self-driving-car-sim/releases)
 
-
-#### 1.4. Release History
-
-* 0.1.1
-    * Added a few features and first proper release
-    * Date 1 January 2018
-
-* 0.1.0
-    * Initiated the repo
-    * Date 11 December 2017
-
-
 ---
 
 ### 2 Approaches
